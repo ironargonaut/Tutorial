@@ -103,7 +103,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1326,
+                    "x": 1408,
                     "y": 198.5,
                     "ioValues": []
                 }
@@ -164,8 +164,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 300,
-                    "y": 54,
+                    "x": 304,
+                    "y": 50,
                     "uniqueID": 225460,
                     "ioValues": [
                         {
@@ -199,8 +199,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 280,
-                    "y": 290,
+                    "x": 277,
+                    "y": 289,
                     "uniqueID": 606028,
                     "ioValues": [
                         {
@@ -256,7 +256,7 @@
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 698,
-                    "y": 196,
+                    "y": 194,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
@@ -312,8 +312,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1326,
-                    "y": 198.5,
+                    "x": 1399,
+                    "y": 200,
                     "ioValues": []
                 }
             ],
